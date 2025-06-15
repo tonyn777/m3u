@@ -1,140 +1,139 @@
 #EXTM3U
-#EXTINF:0,--------| ALBANIA |--------
-#EXTINF:0,TOP CHANNEL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOP CHANNEL" tvg-logo="" group-title="ALBANIA",TOP CHANNEL
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3071
-#EXTINF:0,KLAN TV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KLAN TV" tvg-logo="" group-title="ALBANIA",KLAN TV
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3072
-#EXTINF:0,A2 CNN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A2 CNN" tvg-logo="" group-title="ALBANIA",A2 CNN
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/43335
-#EXTINF:0,KTV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KTV" tvg-logo="" group-title="ALBANIA",KTV
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4928
-#EXTINF:0,KLAN PLUS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KLAN PLUS" tvg-logo="" group-title="ALBANIA",KLAN PLUS
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4881
-#EXTINF:0,Vizion Plus 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vizion Plus" tvg-logo="" group-title="ALBANIA",Vizion Plus
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3078
-#EXTINF:0,TOP NEWS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOP NEWS" tvg-logo="" group-title="ALBANIA",TOP NEWS
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4233
-#EXTINF:0,ABC News
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABC News" tvg-logo="" group-title="ALBANIA",ABC News
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18041
-#EXTINF:0, TeVe1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeVe1 HD" tvg-logo="" group-title="ALBANIA",TeVe1 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3074
-#EXTINF:0,RTSH 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH 1 HD" tvg-logo="" group-title="ALBANIA",RTSH 1 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18022
-#EXTINF:0,RTSH Shqip
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Shqip" tvg-logo="" group-title="ALBANIA",RTSH Shqip
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18023
-#EXTINF:0,RTSH Sport HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTSH Sport HD" tvg-logo="" group-title="ALBANIA",RTSH Sport HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18024
-#EXTINF:0,TV Dukagjini HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Dukagjini HD" tvg-logo="" group-title="ALBANIA",TV Dukagjini HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/30456
-#EXTINF:0,Kanal 7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal 7" tvg-logo="" group-title="ALBANIA",Kanal 7
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18026
-#EXTINF:0,T7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T7" tvg-logo="" group-title="ALBANIA",T7
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/30457
-#EXTINF:0,RTV 21 +
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 +" tvg-logo="" group-title="ALBANIA",RTV 21 +
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18025
-#EXTINF:0,RTV 21 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV 21 HD" tvg-logo="" group-title="ALBANIA",RTV 21 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4927
-#EXTINF:0,RTV Fontana
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Fontana" tvg-logo="" group-title="ALBANIA",RTV Fontana
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18027
-#EXTINF:0,RTV Arberia 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Arberia 1 HD" tvg-logo="" group-title="ALBANIA",RTV Arberia 1 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18046
-#EXTINF:0,Kanal D Drama HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal D Drama HD" tvg-logo="" group-title="ALBANIA",Kanal D Drama HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18030
-#EXTINF:0,FOLK +
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOLK +" tvg-logo="" group-title="ALBANIA",FOLK +
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4428
-#EXTINF:0,BBF MUSIC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBF MUSIC" tvg-logo="" group-title="ALBANIA",BBF MUSIC
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4429
-#EXTINF:0,Prime FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prime FHD" tvg-logo="" group-title="ALBANIA",Prime FHD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18019
-#EXTINF:0,Alsat M HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alsat M HD" tvg-logo="" group-title="ALBANIA",Alsat M HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18016
-#EXTINF:0,Klan Kosova HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Klan Kosova HD" tvg-logo="" group-title="ALBANIA",Klan Kosova HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18017
-#EXTINF:0,News 24
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="" group-title="ALBANIA",News 24
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18020
-#EXTINF:0, Kanal 10 FHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kanal 10 FHD" tvg-logo="" group-title="ALBANIA",Kanal 10 FHD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18021
-#EXTINF:0,National Geographic
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="National Geographic" tvg-logo="" group-title="ALBANIA",National Geographic
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18045
-#EXTINF:0, Digi Gold 1 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Gold 1" tvg-logo="" group-title="ALBANIA",Digi Gold 1
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18018
-#EXTINF:0,Digi Gold 2  HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Gold 2  HD" tvg-logo="" group-title="ALBANIA",Digi Gold 2  HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18040
-#EXTINF:0, Digi Gold 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Gold 3 HD" tvg-logo="" group-title="ALBANIA",Digi Gold 3 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18035
-#EXTINF:0,Digi Gold 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Digi Gold 4 HD" tvg-logo="" group-title="ALBANIA",Digi Gold 4 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4431
-#EXTINF:0, X Western HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Western HD" tvg-logo="" group-title="ALBANIA",X Western HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18031
-#EXTINF:0,X Comedy HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="X Comedy HD" tvg-logo="" group-title="ALBANIA",X Comedy HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18047
-#EXTINF:0,Film Hits HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Hits HD" tvg-logo="" group-title="ALBANIA",Film Hits HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4430
-#EXTINF:0,Tring Super
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Super" tvg-logo="" group-title="ALBANIA",Tring Super
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4427
-#EXTINF:0,Tring 3 +
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring 3 +" tvg-logo="" group-title="ALBANIA",Tring 3 +
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18049
-#EXTINF:0, Tring Jolly HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Jolly HD" tvg-logo="" group-title="ALBANIA",Tring Jolly HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/30455
-#EXTINF:0,Tring Life
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Life" tvg-logo="" group-title="ALBANIA",Tring Life
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18034
-#EXTINF:0,Tring Tring
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Tring" tvg-logo="" group-title="ALBANIA",Tring Tring
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18043
-#EXTINF:0,Tring History
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring History" tvg-logo="" group-title="ALBANIA",Tring History
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18042
-#EXTINF:0,Tring Shqip
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Shqip" tvg-logo="" group-title="ALBANIA",Tring Shqip
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18028
-#EXTINF:0,Tring World
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring World" tvg-logo="" group-title="ALBANIA",Tring World
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18044
-#EXTINF:0,Tring Planet
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Planet" tvg-logo="" group-title="ALBANIA",Tring Planet
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18033
-#EXTINF:0,Tring World 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring World" tvg-logo="" group-title="ALBANIA",Tring World
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18050
-#EXTINF:0,Tring Comedy
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Comedy" tvg-logo="" group-title="ALBANIA",Tring Comedy
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18036
-#EXTINF:0,Tring Planet
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Planet" tvg-logo="" group-title="ALBANIA",Tring Planet
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18037
-#EXTINF:0,Tring Action HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Action HD" tvg-logo="" group-title="ALBANIA",Tring Action HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18029
-#EXTINF:0,Film GOLD HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film GOLD HD" tvg-logo="" group-title="ALBANIA",Film GOLD HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3076
-#EXTINF:0,Tring Kids HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tring Kids HD" tvg-logo="" group-title="ALBANIA",Tring Kids HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18032
-#EXTINF:0,Film Drama
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film Drama" tvg-logo="" group-title="ALBANIA",Film Drama
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18048
-#EXTINF:0,FILM AKSION
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FILM AKSION" tvg-logo="" group-title="ALBANIA",FILM AKSION
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4234
-#EXTINF:0,FILM THRILLER
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FILM THRILLER" tvg-logo="" group-title="ALBANIA",FILM THRILLER
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/4236
-#EXTINF:0,Film MAX HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Film MAX HD" tvg-logo="" group-title="ALBANIA",Film MAX HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3077
-#EXTINF:0,Tele one 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele one 1 HD" tvg-logo="" group-title="ALBANIA",Tele one 1 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18039
-#EXTINF:0,Tele one 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele one 2 HD" tvg-logo="" group-title="ALBANIA",Tele one 2 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/18038
-#EXTINF:0,Tele one 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tele one 3 HD" tvg-logo="" group-title="ALBANIA",Tele one 3 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3075
-#EXTINF:0,SUPER SPORT 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORT 1 HD" tvg-logo="" group-title="ALBANIA",SUPER SPORT 1 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3956
-#EXTINF:0,SUPER SPORT 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORT 2 HD" tvg-logo="" group-title="ALBANIA",SUPER SPORT 2 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3954
-#EXTINF:0,SUPER SPORT 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORT 3 HD" tvg-logo="" group-title="ALBANIA",SUPER SPORT 3 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3951
-#EXTINF:0,SUPER SPORT 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPER SPORT 4 HD" tvg-logo="" group-title="ALBANIA",SUPER SPORT 4 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3950
-#EXTINF:0,TRING SPORT 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRING SPORT 1 HD" tvg-logo="" group-title="ALBANIA",TRING SPORT 1 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3942
-#EXTINF:0,TRING SPORT 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRING SPORT 2 HD" tvg-logo="" group-title="ALBANIA",TRING SPORT 2 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3941
-#EXTINF:0,TRING SPORT 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRING SPORT 3 HD" tvg-logo="" group-title="ALBANIA",TRING SPORT 3 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3940
-#EXTINF:0,TRING SPORT 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TRING SPORT 4 HD" tvg-logo="" group-title="ALBANIA",TRING SPORT 4 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/3939
-#EXTINF:0, Kujtesa Sport 1 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kujtesa Sport 1 HD" tvg-logo="" group-title="ALBANIA",Kujtesa Sport 1 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/37329
-#EXTINF:0,Kujtesa Sport 2 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kujtesa Sport 2 HD" tvg-logo="" group-title="ALBANIA",Kujtesa Sport 2 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/37330
-#EXTINF:0,Kujtesa Sport 3 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kujtesa Sport 3 HD" tvg-logo="" group-title="ALBANIA",Kujtesa Sport 3 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/37331
-#EXTINF:0,Kujtesa Sport 4 HD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kujtesa Sport 4 HD" tvg-logo="" group-title="ALBANIA",Kujtesa Sport 4 HD
 http://51.195.7.192:8000/AlekoNachovnikolamariyanaDHDBD/sR6Mv2TfERpaq7W3/37333
